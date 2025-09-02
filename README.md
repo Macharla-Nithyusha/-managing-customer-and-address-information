@@ -15,3 +15,4 @@ A full-stack web application to manage customers and their associated addresses.
 - **Frontend:** React.js (CRA)
 - **API Testing:** Postman (optional)
 
+-------------------------------
